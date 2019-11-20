@@ -1,0 +1,96 @@
+[ 2017-10-10T15:00:10+08:00 ] ::1 /PayPal/checkout.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Checkout
+
+[ 2017-10-10T15:00:14+08:00 ] ::1 /PayPal/checkout.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001609s ]
+ERR: 无法加载模块:Checkout
+
+[ 2017-10-10T15:32:07+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:33:29+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:33:29+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:33:30+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:33:31+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:33:31+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:33:31+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:37:24+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:37:25+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:37:49+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001571s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:38:48+08:00 ] ::1 /paypal/pay.php?success=true&paymentId=PAY-0RA59393LP654962PLHOHO2I&token=EC-2ML65522XW7243929&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:41:05+08:00 ] ::1 /paypal/index/pay/success/true?paymentId=PAY-4HA47662F71289042LHOHTCA&token=EC-5XM98724HE6059834&PayerID=7X2JJVSQ9GKT8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+ERR: 无法加载模块:Pay
+
+[ 2017-10-10T15:42:12+08:00 ] ::1 /paypal/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Index
+
+[ 2017-10-10T16:06:27+08:00 ] ::1 /paypal/index.php/Home/Index/main.php?m=company&s=myshop
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:Myshop
+
